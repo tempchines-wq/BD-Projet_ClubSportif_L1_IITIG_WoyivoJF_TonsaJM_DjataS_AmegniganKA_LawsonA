@@ -1,0 +1,31 @@
+# Fichiers systeme Windows
+Thumbs.db
+desktop.ini
+*.lnk
+
+# Fichiers systeme Mac
+.DS_Store
+.AppleDouble
+
+# Fichiers SQL Server
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.trn
+
+# Fichiers temporaires
+*.tmp
+*.temp
+~$*
+
+# Fichiers de mot de passe ou secrets
+*.env
+secrets.txt
+
+# Dossiers IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
